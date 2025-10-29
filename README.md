@@ -23,11 +23,11 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - Scheduled backups
 
 ### Development Features (Beta)
--  Docker Compose integration
--  Hot reload enabled
--  Debug mode active
--  Enhanced logging
--  Mock external APIs
+- Docker Compose integration
+- Hot reload enabled
+- Debug mode active
+- Enhanced logging
+- Mock external APIs
 
 ## Quick Start
 
